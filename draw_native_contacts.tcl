@@ -1,3 +1,7 @@
+#This script draws the native contact between the alpha atoms of each residue
+#Bugs can be reported to: apoma@ippt.pan.pl, fcofas@ippt.pan.pll, golivos@ippt.pan.pl
+
+#VMD background nice set-up
 color Display Background white
 display projection Orthographic
 display depthcue off
@@ -10,7 +14,6 @@ mol modcolor 0 0 ColorID 6
 mol modmaterial 0 0 AOChalky
 mol modstyle 0 0 Tube 0.30 30.0
 
-#This script draws the native contact between the alpha atoms of each residue 
 #Provide a *.dat file with the list of native contacts in two columns (i.e. 5 2)
 
 set fileId [open "native_contacts.dat" r]
