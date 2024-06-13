@@ -3,9 +3,7 @@ We provide a set of scripts to calculate native contacts from an MD. Native cont
 
 Native Contacts visualization in VMD:
 
-![Native Contacts visualization](https://github.com/Multiscale-Modelling-of-Complex-Systems/Native-contacts-determination-from-MD/blob/main/native_contacts.gif)
-
-<img src="https://github.com/Multiscale-Modelling-of-Complex-Systems/Native-contacts-determination-from-MD/blob/main/native_contacts.gif" width="300">
+<img src="https://github.com/Multiscale-Modelling-of-Complex-Systems/Native-contacts-determination-from-MD/blob/main/native_contacts.gif" width="350">
 
 
 
