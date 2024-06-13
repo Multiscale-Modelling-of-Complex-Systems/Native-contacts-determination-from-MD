@@ -3,7 +3,7 @@ We provide a set of scripts to calculate native contacts from an MD. Native cont
 
 #Native Contacts visualization
 
-![Native Contacts visualization](ruta/al/GIF.gif)
+![Native Contacts visualization](https://github.com/Multiscale-Modelling-of-Complex-Systems/Native-contacts-determination-from-MD/blob/main/native_contacts.gif)
 
 
 
