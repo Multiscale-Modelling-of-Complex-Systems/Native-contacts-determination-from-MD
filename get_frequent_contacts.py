@@ -20,4 +20,4 @@ significant_pairs['B'] = significant_pairs['B'].astype(str)
 significant_pairs['pair_label'] = significant_pairs['A'] + ' ' + significant_pairs['B']
 
 # Save the native contacts list (by pairs) in a new *.itp file, without duplications
-significant_pairs.to_csv('go_contacts_70.itp', columns=['A', 'B'], sep=' ', header=False, index=False)
+significant_pairs.to_csv('native_contacts.dat', columns=['A', 'B'], sep=' ', header=False, index=False)
