@@ -4,7 +4,7 @@
 #Open vmd and load your protein file
 #Run this script in the TkConsole: source draw_native_contacts.tcl
 
-#VMD background nice set-up
+#VMD background set-up
 color Display Background white
 display projection Orthographic
 display depthcue off
