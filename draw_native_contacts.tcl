@@ -1,5 +1,8 @@
-#This script draws the native contact between the alpha atoms of each residue
+#This script draws the native contact between the alpha atoms of each residue using VMD
 #Bugs can be reported to: apoma@ippt.pan.pl, fcofas@ippt.pan.pll, golivos@ippt.pan.pl
+
+#Open vmd and load your protein file
+#Run this script in the TkConsole: source draw_native_contacts.tcl
 
 #VMD background nice set-up
 color Display Background white
@@ -83,5 +86,5 @@ proc drawLinesAsync {lines} {
     }
 }
 
-# Iniciar el dibujo asíncrono
+# Start asynchronous drawing
 drawLinesAsync $lines
