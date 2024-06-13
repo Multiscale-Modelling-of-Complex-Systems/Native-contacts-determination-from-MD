@@ -1,4 +1,6 @@
 #This script reads a list of native contacts and determines the more frequent contacts in a trajectory
+#Bugs can be reported to: apoma@ippt.pan.pl, fcofas@ippt.pan.pll, golivos@ippt.pan.pl
+
 import pandas as pd
 import matplotlib.pyplot as plt
 
