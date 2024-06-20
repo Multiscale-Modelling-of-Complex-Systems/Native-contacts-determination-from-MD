@@ -7,4 +7,4 @@
      **source draw_native_contacts.tcl**
 4. **Go contacts will be display according the specified time (line 79-82 from the TCL script).**
 
-**Note: use the other scripts to get the native conctacts list.** 
+**Note: Use the other scripts to get the native conctacts list. You can change the time do go faster** 
